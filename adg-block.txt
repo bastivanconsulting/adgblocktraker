@@ -17,3 +17,5 @@
 ||analytics-sg.tiktok.com^
 ||business-api.tiktok.com^
 ||ads.tiktok.com^
+||analytics.google.com^
+||click.googleanalytics.com^
