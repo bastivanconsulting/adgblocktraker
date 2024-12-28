@@ -31,3 +31,9 @@
 ||metrika.yandex.ru^
 ||adfox.yandex.ru^
 ||afs.googlesyndication.com^
+||stresslab*
+||stress-lab*
+||ddos-lab*
+||*.stresslab.*
+||*.stress-lab.*
+||*.ddos-lab.*
