@@ -1,0 +1,19 @@
+! Liste AdGuard pour bloquer les trackers
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||static.ads-twitter.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||log.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
