@@ -30,3 +30,4 @@
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
 ||adfox.yandex.ru^
+||afs.googlesyndication.com^
